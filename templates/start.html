@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Start Workout</title>
+        <link rel="stylesheet"
+          href="{{url_for('static', filename='styles.css')}}">
+</head>
+
+<body>
+
+    <div class="interface-container center-grid">
+
+    <h1 class="title-box">Starting Workout {{ workout_id }}</h1>
+
+        <h2 class="subtitle-box">Exercise {{ exercise_number + 1 }}</h2>
+        <h2 class="subtitle-box"> {{ current_exercise[2] }}</h2>
+
+        <div class="input-container">
+            <form method="POST">
+
+                <input type="hidden" name="exercise_number" value="{{ exercise_number }}">
+
+            <div class="input-row">
+                <label>Weight:   </label>
+                <input type="number" name="weight">
+            </div>
+
+                <br>
+
+            <div class="input-row">
+                <label>Reps:   </label>
+                <input type="number" name="reps">
+            </div>
+            
+                <br>
+        </div>
+
+            <button class=" btn submit-button" type="submit" name="action" value="save">Save Set</button>   
+
+        </form>
+
+        {% if message %}
+            <h3>{{ message }}</h3>
+        {% endif %}
+
+        <h3>Logged Sets</h3>
+
+        <div class="set-log">
+            {% for set in sets %}
+                <p>
+                    Set {{ set[3] }}:
+                    {{ set[4] }} x {{ set[5] }}
+                </p>
+            {% endfor %}
+        </div>
+
+        <form method="POST">
+
+            <input type="hidden" name="exercise_number" value="{{ exercise_number }}">
+
+            <button class="next-exercise-button" type="submit" name="action" value="next">Next Exercise</button>
+        </form>
+
+        </div>
+
+</body>
+</html>
