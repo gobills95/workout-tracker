@@ -1,0 +1,116 @@
+﻿name,muscle_group,muscle_group_area,movement_type,machine
+Barbell Bench Press,Chest,mid,Push,n
+Incline Bench Press,Chest,upper,Push,n
+Decline Bench Press,Chest,lower,Push,n
+Smith Barbell Bench Press,Chest,mid,Push,y
+Smith Incline Bench Press,Chest,upper,Push,y
+Under-Hand Barbell Bench Press,Chest,mid,Push,n
+Under-Hand Incline Bench Press,Chest,upper,Push,n
+Under-Hand Decline Bench Press,Chest,lower,Push,n
+Smith Under-Hand Barbell Bench Press,Chest,mid,Push,y
+Smith Under-Hand Incline Bench Press,Chest,upper,Push,y
+Flat Dumbbell Press,Chest,mid,Push,n
+Incline Dumbbell Press,Chest,upper,Push,n
+Decline Dumbbell Press,Chest,lower,Push,n
+Flat Dumbbell Flye,Chest,mid,Push,n
+Incline Dumbbell Flye,Chest,upper,Push,n
+Decline Dumbbell Flye,Chest,lower,Push,n
+Cable Flyes (High-Low),Chest,upper,Push,n
+Cable Flyes (Mid-Mid),Chest,mid,Push,n
+Chest Dips,Chest,lower,Push,n
+Machine Flye,Chest,mid,Push,y
+Machine Press,Chest,mid,Push,y
+Narrow Push-up,Chest,upper,Push,n
+Wide Push-up,Chest,mid,Push,n
+Overhead Barbell Press,Shoulders,top-delt,Push,n
+Overhead Barbell Press (Behind),Shoulders,top-delt,Push,n
+Smith Overhead Press,Shoulders,top-delt,Push,y
+Smith Overhead Press (Behind),Shoulders,top-delt,Push,y
+Seated Dumbbell Shoulder Press,Shoulders,top-delt,Push,n
+Arnold Dumbbell Press,Shoulders,top-delt,Push,n
+Dumbbell Lateral Raises,Shoulders,side-delt,Push,n
+Dumbbell Lateral Raises Under-Hand,Shoulders,side-delt,Push,n
+Lateral Raise Machine,Shoulders,side-delt,Push,y
+Cable Lateral Raise,Shoulders,side-delt,Push,n
+EZ Bar Lateral Raise (Single-Arm),Shoulders,side-delt,Push,n
+Dumbbell Front Raises,Shoulders,front-delt,Push,n
+Dumbbell Front Raises (Hammer Grip),Shoulders,front-delt,Push,n
+Cable Front Raise,Shoulders,front-delt,Push,n
+EZ Bar Front Raise,Shoulders,front-delt,Push,n
+Tricep Rope Cable,Triceps,tricep,Push,n
+Tricep Rope Cable Overhead,Triceps,tricep,Push,n
+Tricep 2/3rd Triangle Cable,Triceps,tricep,Push,n
+Tricep Straight Bar Cable,Triceps,tricep,Push,n
+Tricep Straight Bar Cable Underhand,Triceps,tricep,Push,n
+Tricep Single-Arm Cable,Triceps,tricep,Push,n
+Tricep Single-Arm Cable Underhand,Triceps,tricep,Push,n
+Skull Crusher EZ Bar,Triceps,tricep,Push,n
+Close Grip Bench Press,Triceps,tricep,Push,n
+Smith Close Grip Bench Press,Triceps,tricep,Push,y
+Tricep Dumbbell Kickback,Triceps,tricep,Push,n
+Tricep Dumbbell Overhead Press,Triceps,tricep,Push,n
+Tricep Extension Machine,Triceps,tricep,Push,y
+Lat Pull Down (Wide),Back,lat,Pull,n
+Lat Pull Down (Neutral),Back,lat,Pull,n
+Lat Pull Down (Tight),Back,lat,Pull,n
+Lat Pull Down (A-Bar),Back,lat,Pull,n
+Lat Pull Down (Neutral - Underhand),Back,lat,Pull,n
+Lat Pull Down (Neutral - Hammer Grip),Back,lat,Pull,n
+Single Arm Lat Pull Down,Back,lat,Pull,n
+Lat Pull Down (Half Moon Machine),Back,lat,Pull,y
+Seated Cable Row (Neutral),Back,rhomboid,Pull,n
+Seated Cable Row (Tight),Back,rhomboid,Pull,n
+Seated Cable Row (A-Bar),Back,rhomboid,Pull,n
+Single Arm Cable Row,Back,rhomboid,Pull,n
+T-Bar Row (Chest Supported),Back,rhomboid,Pull,y
+Bomb Row (Wide),Back,rhomboid,Pull,n
+Bomb Row (Neutral),Back,rhomboid,Pull,n
+Bomb Row (Tight),Back,rhomboid,Pull,n
+3 Grip Machine Row (1),Back,rhomboid,Pull,y
+3 Grip Machine Row (2),Back,rhomboid,Pull,y
+3 Grip Machine Row (3),Back,rhomboid,Pull,y
+Single-Arm Dumbbell Row,Back,rhomboid,Pull,n
+Barbell Bent Over Row,Back,rhomboid,Pull,n
+Smith Barbell Bent Over Row,Back,rhomboid,Pull,y
+Cable Face Pull (Rope),Shoulders,rear-delt,Pull,n
+Cable Face Pull (Bar),Shoulders,rear-delt,Pull,n
+Reverse Flye Machine,Shoulders,rear-delt,Pull,y
+Dumbbell Reverse Flye (Chest Support),Shoulders,rear-delt,Pull,n
+Single Arm-Cable Yank,Shoulders,rear-delt,Pull,n
+Barbell Bicep Curl,Biceps,bicep,Pull,n
+Barbell Bicep Curl (Overhand),Biceps,bicep,Pull,n
+Barbell Bicep Curl (Wide),Biceps,bicep,Pull,n
+EZ Bar Curl,Biceps,bicep,Pull,n
+EZ Bar Preacher Curl,Biceps,bicep,Pull,n
+Single Arm Dumbbell Preacher Curl,Biceps,bicep,Pull,n
+Dumbbell Hammer Curl,Biceps,bicep,Pull,n
+Cool Bar Curl,Biceps,bicep,Pull,n
+Cable Straight Bar Bicep Curl,Biceps,bicep,Pull,n
+Cable Rope Bicep Curl,Biceps,bicep,Pull,n
+Single Arm Cable Bicep Curl,Biceps,bicep,Pull,n
+Incline Bench Dumbbell Curl,Biceps,bicep,Pull,n
+Up & Twist Dumbbell Curl ,Biceps,bicep,Pull,n
+Up & Twist Dumbbell Curl (Hammer Grip),Biceps,bicep,Pull,n
+Barbell Back Squat,Legs,quad,Legs,n
+Barbell Back Squat (Narrow),Legs,quad,Legs,n
+Barbell Lunges,Legs,quad,Legs,n
+Hack Squat (Neutral),Legs,quad,Legs,y
+Hack Squat (Wide),Legs,quad,Legs,y
+Hack Squat (Narrow),Legs,quad,Legs,y
+Leg Press (Neutral),Legs,quad,Legs,y
+Leg Press (Wide),Legs,quad,Legs,y
+Leg Press (Narrow),Legs,quad,Legs,y
+Seated Leg Extension,Legs,quad,Legs,y
+Reverse Hack Squat (Neutral),Legs,quad,Legs,y
+Reverse Hack Squat (Wide),Legs,quad,Legs,y
+Reverse Hack Squat (Narrow),Legs,quad,Legs,y
+Pendulum Squat Machine,Legs,quad,Legs,y
+Dumbbell Lunges,Legs,quad,Legs,n
+Bulgarian Split Squat,Legs,quad,Legs,n
+Barbell RDL,Legs,hamstring,Legs,n
+Dumbbell RDL,Legs,hamstring,Legs,n
+Dumbbell RDL Single Leg,Legs,hamstring,Legs,n
+Lying Leg Curl,Legs,hamstring,Legs,y
+Seated Leg Curl,Legs,hamstring,Legs,y
+Standing Calf Raises,Legs,calves,Legs,y
+Seated Calf Raises,Legs,calves,Legs,y

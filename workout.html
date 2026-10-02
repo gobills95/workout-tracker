@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}
+Generated Workout
+{% endblock %}
+
+{% block content %}
+
+
+    <div class="workout_card center-grid">
+        
+        <h1 class="title-box">Generated Workout</h1>
+
+        <h2 class="subtitle-box">Workout ID: {{ workout_id }} </h2>
+
+        <div class="exercise-container">
+
+            {% for exercise in workout %}
+                <p>{{ exercise[2] }}</p>
+            {% endfor %}
+        </div>
+
+        <div class = "button-container">
+
+            <a href="/start/{{ workout_id }}/0">
+            <button type="submit">Start Workout</button>
+            </a>
+        </div>
+
+    </div>
+
+{% endblock %}
